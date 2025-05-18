@@ -1,7 +1,6 @@
 [submodule "m-ex"]
 	path = m-ex
 	url = https://github.com/akaneia/m-ex/
-
 [submodule "mexTool"]
 	path = mexTool
 	url = https://github.com/akaneia/mexTool
